@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+sharon is the king
+=======
+sharon is the king
+yes its true
+>>>>>>> B3
